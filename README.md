@@ -23,9 +23,9 @@ Computer Science Student
 Currently pursuing a Bachelors Degree in Computer Science at Arizona State University 🔱. Experienced in Python, Java, JavaScript, HTML, CSS and Web Developement.
 
 * 🌍  I'm based in Tempe
-* ✉  You can contact me at [kota2022kashyap@gmail.com](mailto:sohamchoulwar.27@gmail.com)
+* ✉  You can contact me at [sohamchoulwar.27@gmail.com](mailto:sohamchoulwar.27@gmail.com)
 * 🧠  I'm learning ReactJS
-* 🌐  Visit my personal website at [kashyaphegde.com](https://soham1827.pythonanywhere.com/)
+* 🌐  Visit my personal website at [soham1827.pythonanywhere.com](https://soham1827.pythonanywhere.com/)
 
 ### Skills
 
