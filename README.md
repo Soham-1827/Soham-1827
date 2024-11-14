@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi ![]My name is Soham Rajesh Choulwar
+Hi !My name is Soham Rajesh Choulwar
 ==========================================================================================================================================
 
 Computer Science Student
