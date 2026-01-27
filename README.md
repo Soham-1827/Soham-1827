@@ -25,7 +25,7 @@ Currently pursuing a Bachelors Degree in Computer Science at Arizona State Unive
 * 🌍  I'm based in Tempe
 * ✉  You can contact me at [sohamchoulwar.27@gmail.com](mailto:sohamchoulwar.27@gmail.com)
 * 🧠  I'm learning ReactJS
-* 🌐  Visit my personal website at [soham1827.pythonanywhere.com](https://soham1827.pythonanywhere.com/)
+* 🌐  Visit my personal website at [soham1827.pythonanywhere.com](https://sohamchoulwar.vercel.app/)
 * Currently working as Software and MAchine Learning Engineering Intern at Walnut Tech PBC, ex-Bayer ML and prompt Engineering Intern.
 
 ### Skills
