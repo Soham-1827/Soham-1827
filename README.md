@@ -25,7 +25,7 @@ Currently pursuing a Bachelors Degree in Computer Science at Arizona State Unive
 * 🌍  I'm based in Tempe
 * ✉  You can contact me at [sohamchoulwar.27@gmail.com](mailto:sohamchoulwar.27@gmail.com)
 * 🧠  I'm learning ReactJS
-* 🌐  Visit my personal website at [soham1827.pythonanywhere.com](https://sohamchoulwar.vercel.app/)
+* 🌐  Visit my personal website at [https://sohamchoulwar.vercel.app/](https://sohamchoulwar.vercel.app/)
 * Incoming @ Qualcomm as a GenAI, ML, and 5G Analytics Intern , ex-Walnutech PBC intern, ex-Bayer ML and prompt Engineering Intern.
 
 ### Skills
